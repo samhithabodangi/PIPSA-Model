@@ -1,0 +1,108 @@
+body {
+    margin: 0;
+    font-family: Inter;
+}
+
+.abt {
+    text-align: center;
+    margin-top: -3rem;
+    margin-bottom: 3rem;
+}
+
+.abt-box{
+    margin: 9rem;
+}
+
+.text {
+    font-size: 20px;
+    line-height: 130%;
+    margin-top: 1.5rem;
+}
+
+.main {
+    height: fit-content;
+    background-color: #FAB2B2;
+    padding: 4rem;
+}
+
+.welcome {
+    text-align: center;
+}
+
+.allele {
+	width: 70px;
+	height: 32px;
+	border-radius: 10px;
+	font-size: 16px;
+	margin-left: 2rem;
+	margin-top: 1rem;
+	border: none;
+	text-align: center;
+}
+
+.a {
+	padding: 1rem;
+	display: flex;
+}
+
+.button {
+	background-color: #D54545;
+	border: none;
+	border-radius: 10px;
+	color: white;
+	width: 120px;
+	height: 60px;
+	font-size: 20px;
+	margin-right: 4rem;
+}
+
+.button:hover {
+	cursor: pointer;
+	scale: 1.1;
+}
+
+.button1 {
+	background-color: #D54545;
+	border: none;
+	border-radius: 10px;
+	color: white;
+	width: 160px;
+	height: 60px;
+	font-size: 20px;
+	margin-right: 4rem;
+}
+
+.button1:hover {
+	cursor: pointer;
+	scale: 1.1;
+}
+
+.button-box {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	margin: 2rem;
+}
+
+.hla-box {
+	display: flex;
+}
+
+.hla-whole {
+	display: flex;
+	width: 100%;
+	justify-content: center;
+}
+
+  .ppl {
+	display: flex;
+	width: 100%;
+	justify-content: center;
+	margin-top: 2rem;
+  }
+
+  .ppl-name {
+	text-align: center;
+	margin: 2rem;
+	font-size: 20px;
+  }
